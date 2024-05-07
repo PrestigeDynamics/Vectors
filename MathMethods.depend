@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1712984426 source:c:\users\machine\desktop\cpp\mathmethods\main.cpp
+	<iostream>
+	<stdio.h>
+	"Vector.h"
+	<cmath>
+	<stdio.h>
+
+1712984573 source:c:\users\machine\desktop\cpp\mathmethods\src\vector.cpp
+	"Vector.h"
+
+1712984641 c:\users\machine\desktop\cpp\mathmethods\include\vector.h
+	<cmath>
+	<stdio.h>
+
